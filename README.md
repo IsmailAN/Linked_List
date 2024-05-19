@@ -1,7 +1,7 @@
 # Linked_List
 
-# Menginstall Free Pascal in Ubuntu
-(sudo apt install fpc)
+## Menginstall Free Pascal in Ubuntu
+```apt-get install fpc``` 
 
-# Menjalankan program
-(fpc linked_list.pas && ./linked_list)
+## Menjalankan program
+```fpc linked_list.pas && ./linked_list```
